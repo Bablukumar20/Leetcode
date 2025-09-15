@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bablukumar20/Leetcode/tree/master/0189-rotate-array) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Bablukumar20/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
 | ------- |

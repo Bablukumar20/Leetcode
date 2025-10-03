@@ -18,11 +18,13 @@
 | [0125-valid-palindrome](https://github.com/Bablukumar20/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Bablukumar20/Leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Bablukumar20/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Bablukumar20/Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Bablukumar20/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Bablukumar20/Leetcode/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Bablukumar20/Leetcode/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bablukumar20/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
@@ -32,4 +34,12 @@
 |  |
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bablukumar20/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Hash Table
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Bablukumar20/Leetcode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Bablukumar20/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

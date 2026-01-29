@@ -7,6 +7,7 @@
 | [0007-reverse-integer](https://github.com/Bablukumar20/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Bablukumar20/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Bablukumar20/Leetcode/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/Bablukumar20/Leetcode/tree/master/0258-add-digits) |
 ## Array
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Bablukumar20/Leetcode/tree/master/0258-add-digits) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Bablukumar20/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Hash Table
 |  |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Bablukumar20/Leetcode/tree/master/0567-permutation-in-string) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Bablukumar20/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->

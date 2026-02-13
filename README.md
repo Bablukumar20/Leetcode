@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Bablukumar20/Leetcode/tree/master/0189-rotate-array) |
+| [0704-binary-search](https://github.com/Bablukumar20/Leetcode/tree/master/0704-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Bablukumar20/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Bablukumar20/Leetcode/tree/master/0292-nim-game) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Bablukumar20/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

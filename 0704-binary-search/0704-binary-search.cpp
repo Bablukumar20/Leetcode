@@ -8,7 +8,7 @@ public:
 
     while(start<=end){
 
-        mid = (start+end)/2;
+        mid = start + (end-start)/2;
 
         if(arr[mid] == key)
         return mid;

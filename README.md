@@ -13,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bablukumar20/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0189-rotate-array](https://github.com/Bablukumar20/Leetcode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Bablukumar20/Leetcode/tree/master/0704-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Bablukumar20/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -73,5 +74,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Bablukumar20/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/Bablukumar20/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

@@ -18,6 +18,7 @@
 | [0035-search-insert-position](https://github.com/Bablukumar20/Leetcode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Bablukumar20/Leetcode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Bablukumar20/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Bablukumar20/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Bablukumar20/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -80,4 +81,5 @@
 | [0035-search-insert-position](https://github.com/Bablukumar20/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Bablukumar20/Leetcode/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/Bablukumar20/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Bablukumar20/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
